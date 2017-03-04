@@ -1,0 +1,2 @@
+Java NIO
+A channel reads bytes and characters in blocks, rather than one byte or character at a time.
